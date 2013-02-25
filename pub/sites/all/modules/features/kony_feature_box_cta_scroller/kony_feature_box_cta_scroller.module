@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the BOX: CTA Scroller feature.
+ */
+
+include_once 'kony_feature_box_cta_scroller.features.inc';

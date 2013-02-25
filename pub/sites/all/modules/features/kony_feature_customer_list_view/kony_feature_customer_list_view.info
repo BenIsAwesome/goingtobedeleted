@@ -1,0 +1,12 @@
+name = Customer List View
+description = Enables the Customer List View used on Customer Proven Page
+core = 7.x
+package = Views
+php = 5.2.4
+version = 7.x-1.4
+project = kony_feature_customer_list_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = customer_proven

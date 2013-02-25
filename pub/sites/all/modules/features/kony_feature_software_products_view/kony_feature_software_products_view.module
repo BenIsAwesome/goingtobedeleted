@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Software Products View feature.
+ */
+
+include_once 'kony_feature_software_products_view.features.inc';

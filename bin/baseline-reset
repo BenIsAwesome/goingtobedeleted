@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [[ -z "$@" ]]; then
+    echo "Please specify database to dump:"
+    read database
+else
+    database=$1; shift 1
+fi
+
+mysql $@ -e "DROP DATABASE $database; CREATE DATABASE $database;"

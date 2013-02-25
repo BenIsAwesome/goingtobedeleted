@@ -1,0 +1,37 @@
+#!/bin/bash
+
+ROOT_PATH=$(dirname $(dirname $(which $0))); ROOT_PATH=${ROOT_PATH/./$PWD}
+IGNORE_TABLES="
+    cache
+    cache_admin_menu
+    cache_block
+    cache_bootstrap
+    cache_field
+    cache_filter
+    cache_form
+    cache_image
+    cache_media_xml
+    cache_menu
+    cache_page
+    cache_path
+    cache_token
+    cache_update
+    cache_views
+    cache_views_data
+    sessions
+    watchdog
+"
+
+if [[ -z "$@" ]]; then
+    echo "Please specify database to dump:"
+    read database
+else
+    database=$1; shift 1
+fi
+
+for table in $IGNORE_TABLES; do
+    DATA_OPTS="$DATA_OPTS --ignore-table=$database.$table"
+done
+
+mysqldump $database $@ -d | sed -r 's/ AUTO_INCREMENT=[0-9]+//' > $ROOT_PATH/etc/schema.my.sql && \
+mysqldump $database $@ -tec $DATA_OPTS | sed 's/VALUES (/VALUES\n(/;s/),(/),\n(/g' > $ROOT_PATH/etc/data.my.sql

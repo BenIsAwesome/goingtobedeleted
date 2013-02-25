@@ -1,0 +1,662 @@
+[
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights: </strong>See how this leading European global bank gets ahead of the competition by providing robust, cross-platform solution that enables full service banking on any mobile device.</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights: </strong>See how this leading European global bank gets ahead of the competition by providing robust, cross-platform solution that enables full service banking on any mobile device.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350638265", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638060", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_case_study_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "165", 
+                    "filemime": "application/pdf; charset=binary", 
+                    "filename": "Kony_cs_bank_a_110110.pdf", 
+                    "filesize": "459381", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638060", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-case-study-file://www/case_study/file/Kony_cs_bank_a_110110.pdf", 
+                    "uuid": "42a4c91d-0c13-94b4-5958-9d62ef273099"
+                }
+            ]
+        }, 
+        "field_kony_case_study_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638060", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "196", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mobile-banking-case-study", 
+            "language": "und", 
+            "pid": "170", 
+            "source": "node/196"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638265", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Mobile Banking Case Study ", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_case_study", 
+        "uid": "3", 
+        "uuid": "0278800b-a3d4-5634-0d66-1219b3226750", 
+        "vid": "266", 
+        "vuuid": "0eddc499-ab38-8914-e523-dc9faa3f752b"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>\u00a0</p>\n<p><strong>Highlights: </strong>With no room for error see what this high-volume online investment firm did to increase mobile transactions.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>&nbsp;</p><p><strong>Highlights: </strong>With no room for error see what this high-volume online investment firm did to increase mobile transactions.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350638278", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638060", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_case_study_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "166", 
+                    "filemime": "application/pdf; charset=binary", 
+                    "filename": "Kony_cs_investing.pdf", 
+                    "filesize": "306746", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638060", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-case-study-file://www/case_study/file/Kony_cs_investing.pdf", 
+                    "uuid": "3ee14da3-286a-f984-3d43-308b551569dd"
+                }
+            ]
+        }, 
+        "field_kony_case_study_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638060", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "197", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/leading-stock-brokerage-makes-trading-easier", 
+            "language": "und", 
+            "pid": "171", 
+            "source": "node/197"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638278", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Leading stock brokerage makes trading easier.", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_case_study", 
+        "uid": "3", 
+        "uuid": "ed954db3-1081-2ee4-d180-135408150a87", 
+        "vid": "267", 
+        "vuuid": "5c001c75-5342-ccb4-2501-9386c647e80b"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> An international airline with over 3300 flights per day made travel more convenient for their flyers with mobile web, SMS, and iPhone applications.</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> An international airline with over 3300 flights per day made travel more convenient for their flyers with mobile web, SMS, and iPhone applications.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350638280", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638060", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_case_study_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "167", 
+                    "filemime": "application/pdf; charset=binary", 
+                    "filename": "Kony_cs_airlines_071211.pdf", 
+                    "filesize": "338876", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638060", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-case-study-file://www/case_study/file/Kony_cs_airlines_071211.pdf", 
+                    "uuid": "b2135725-6fe2-77e4-c588-40b1c2939b0a"
+                }
+            ]
+        }, 
+        "field_kony_case_study_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638060", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "198", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/how-major-airline-connected-loyal-customers", 
+            "language": "und", 
+            "pid": "172", 
+            "source": "node/198"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638280", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "How a major airline connected with loyal customers", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_case_study", 
+        "uid": "3", 
+        "uuid": "ec32b708-2cf7-9264-21b6-2d772e3ceb50", 
+        "vid": "268", 
+        "vuuid": "6a174071-e69e-88c4-ad58-78c8938e380a"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> A global financial services company with 200+ million customer accounts and operations in over 140 countries asked Kony to orchestrate the roll out of a global mobile solution with customization for over 30 countries.\u00a0</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> A global financial services company with 200+ million customer accounts and operations in over 140 countries asked Kony to orchestrate the roll out of a global mobile solution with customization for over 30 countries.&nbsp;</p>"
+                }
+            ]
+        }, 
+        "changed": "1350638283", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638060", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_case_study_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "168", 
+                    "filemime": "application/pdf; charset=binary", 
+                    "filename": "Kony_cs_bank_c_110110.pdf", 
+                    "filesize": "302699", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638060", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-case-study-file://www/case_study/file/Kony_cs_bank_c_110110.pdf", 
+                    "uuid": "30986751-f522-7cd4-b972-9fdcf0271307"
+                }
+            ]
+        }, 
+        "field_kony_case_study_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638060", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "199", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/how-one-global-bank-deployed-localized-versions-their-mobile-application-ten-countries-three", 
+            "language": "und", 
+            "pid": "173", 
+            "source": "node/199"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638283", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "How one Global Bank deployed localized versions of their mobile application to ten countries, on three device platforms", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_case_study", 
+        "uid": "3", 
+        "uuid": "13b81efa-dbd6-6cd4-cddf-b98646d4631b", 
+        "vid": "269", 
+        "vuuid": "e0367c1a-e9d2-4704-993d-dae224e667a3"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> The top selling car company in the U.S. wanted to support their customers with information that would bring them to the dealership and give them access to more information while they were there.\u00a0</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> The top selling car company in the U.S. wanted to support their customers with information that would bring them to the dealership and give them access to more information while they were there.&nbsp;</p>"
+                }
+            ]
+        }, 
+        "changed": "1350638286", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638060", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_case_study_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "169", 
+                    "filemime": "application/pdf; charset=binary", 
+                    "filename": "Kony_cs_auto_110110.pdf", 
+                    "filesize": "290373", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638060", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-case-study-file://www/case_study/file/Kony_cs_auto_110110.pdf", 
+                    "uuid": "10e1c003-428f-f194-d576-57b7e0cea9c9"
+                }
+            ]
+        }, 
+        "field_kony_case_study_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638060", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "200", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/how-number-one-car-company-drove-relevant-information-hands-car-buying-public", 
+            "language": "und", 
+            "pid": "174", 
+            "source": "node/200"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638286", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "How the number one car company drove relevant information into the hands of the car-buying public", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_case_study", 
+        "uid": "3", 
+        "uuid": "397553c3-1780-dab4-01a3-44dd1d3d8488", 
+        "vid": "270", 
+        "vuuid": "33893689-a488-0754-7562-f3625b71a771"
+    }
+]

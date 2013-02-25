@@ -1,0 +1,539 @@
+.enter-tabs li{
+width:16%;
+}
+.col.left.enter-tabs{ 
+  width: 100%;
+  float: left;
+  /*border-right: 1px solid #ddd;*/
+  margin: 0; }
+
+.video-container iframe{
+	overflow: hidden;
+}
+
+.kony-feature-tabbed-apps .app-panel .app-icons li{
+	height: auto !important;
+}
+
+.app-accordian{
+	display: none;
+}
+
+#mobile-slideshow{
+	display: none;
+}
+
+@media screen and (max-width: 640px){
+	header nav select{
+		margin: 0 0 12px;
+	}
+	.app-grid {
+		display: none;
+	}
+	.app-accordian{
+		display: block;
+	}
+	.kony-feature-client-logos li{
+		min-height: 85px;
+		min-width: 170px;/* was 166 x 103 */
+	}
+	#mobile-slideshow{
+		display: block;
+	}
+	.master .flex-control-nav{
+		margin-top: 0 !important;
+	}
+        .campaign-container{
+		width: 100% !important;
+        }
+        #billboard .app-headline img{
+		width: 40% !important;
+        }
+	.app-headline h2{
+		font-size: 2.2em !important;
+	}
+}
+
+.app-accordian div, .app-accordian h3, .app-accordian h4{
+	clear: both;
+}
+.app-vert-name{
+	border-top: 1px solid rgb(204,204,204);
+	border-bottom: none !important;
+	padding-bottom: 0 !important;
+	padding-top: 15px;
+}
+.app-vert-name:first-child{
+	border-top: none;
+	padding-top: 0;
+}
+.app-accordian ul{
+	margin: 0;
+	width: 100%;
+	padding: 0;
+}
+.app-accordian li{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	clear: both;
+}
+.app-accordian .app a img, .app-accordian .app a h5 {
+	float: left;
+}
+.app-accordian .app a img{
+	width: 30%;
+	margin: 0;
+	padding: 0;
+}
+.app-accordian .app a h5{
+	margin: 10% 0 0;
+	padding: 0;
+	font-size: 100%;	
+	width: 70%;
+	text-align: center
+}
+.form-textarea-wrapper textarea {
+    -moz-box-sizing: border-box;
+    clear: both;
+    display: block;
+    margin: 0;
+    width: 100%;
+}
+#fancybox-content{
+	border-width: 5px 10px 5px 0 !important;
+}
+#fancybox-frame{
+	margin-right: 10px !important;
+}
+.kony-feature-content-box .flexslider, .kony-feature-content-box-slider .flexslider, .kony-feature-application-item .flexslider{
+	margin: 0 !important;
+}
+.video-container{
+	padding: 0 0 32% !important;
+}
+.kony-feature-value-prop .clearfix{
+	/* display: inline-block; */
+}
+
+.master figure figcaption{
+	color: #9C9C9C;
+	font-size: 0.8em;
+}
+.kony-feature-content-box .flex-direction-nav .flex-prev, .kony-feature-content-box-slider .flex-direction-nav .flex-prev, .kony-feature-application-item .flex-direction-nav .flex-prev{
+	left: 48% !important;
+}
+.kony-feature-content-box .flex-direction-nav .flex-next, .kony-feature-content-box-slider .flex-direction-nav .flex-next, .kony-feature-application-item .flex-direction-nav .flex-next{
+	right: 5px !important;
+}
+
+.clearfix.video{
+	height: auto !important;
+}
+.webinar div.clearfix{
+	height: auto !important;
+	margin-bottom: -15px !important;
+}
+.item-list ul li {
+	margin: 0px !important;
+}
+.item-list .pager li a {
+	padding: 5px 6px !important;  
+}
+
+.view-data-sheets-list .resource h4{
+	min-height: 42px;
+}
+
+#block-feedback-form form{
+	min-height: 230px;
+}
+
+.view-data-sheets-list .resource h4{
+	min-height: 42px;
+}
+
+.ten-tabs li{
+	width: 10%;
+}
+.ten-tabs li a{
+	padding: 0 0 10px !important;
+}
+.ten-tabs li a img{
+	width: 80% !important;
+}
+.ten-tabs li a h5{
+	text-transform: none !important;
+	font-size: 0.6em !important;
+}
+.app-icons h5{
+	font-size: 0.65em !important;
+}
+.app-tabs li.selected h5{
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	padding: 2px;
+}
+.kony-feature-tabbed-apps .app-panel .app-icons li a{
+	width: 80%;
+}
+.master .flex-control-nav{
+	bottom: auto;
+	margin-top: -30px;
+	position: inherit;
+	text-align: center;
+	width: 100%;
+}
+/** In page slider corrections **/
+.col .flex-container{ /** apps detail page **/
+	margin-top: 10px;
+}
+
+@media screen and (max-width: 640px){
+	.flexslider:hover .flex-prev, .flexslider-tour:hover .flex-prev{
+		left: -11px;		
+	}
+}
+#wrap{
+	width:990px;
+	margin:0 auto;
+	position:relative;
+}
+#content{
+   overflow:hidden;
+}
+.contentbox-wrapper{
+   position:relative;
+   left:0;
+   width:3000px;
+   height:100%;
+}
+.contentbox{
+   width:990px;
+   height:100%;
+   float:left;
+   padding:10px;
+}
+#nav {
+   margin-top:10px;
+   border-bottom: 1px solid #DDDDDD;
+   padding: 5px 10px;
+   display:inline;
+}
+#nav ol li{
+   display:inline-block;
+    margin-right:10px;
+}
+#nav a.active {
+  font-weight:bold;
+}
+.control-nav {
+   bottom: 40px;
+   position: absolute;
+   z-index:9999;
+}
+.cta-scroller-arrow{
+left:0% !important;
+margin-top:-200px;
+z-index:9999;
+top:45% !important;
+outline:none;
+}
+.cta-scroller-next{
+margin-top:-200px;
+z-index:9999;
+top:45% !important;
+outline:none;
+}
+
+/** New tab feature content structure **/
+.feature{
+	width: 100%;
+	clear: both;
+	padding-bottom: 10px;
+}
+.feature_desc{
+	float: left;
+	margin-bottom: 15px;
+}
+.feature_desc ul{
+	list-style-image: url("/themes/kony/images/lt_grey_box.png");
+}
+a.feature_img + div.feature_desc{
+	max-width: 75%;
+}
+.feature .lightbox.feature_img{
+	float: left;
+	width: 20%;
+	margin-right: 20px;
+}
+.lightbox.feature_img img{
+	width: 100%;
+}
+
+/** Changes from the call with Michele and Alison for css changes **/
+.kony-feature-next-steps .col, .kony-feature-next-steps-support .col{
+	padding: 0 20px 15px;
+}
+
+/** next steps **/
+.kony-feature-next-steps .col .button, .kony-feature-next-steps-support .col .button{
+	margin: 10px 20px 10px;
+}
+
+h4{
+	margin: 10px 0; /* This is a site wide, needs to be reviewed */
+}
+
+/** Content boxes **/
+.master figure figcaption{
+	font-style: normal;
+	padding-left: 10px;
+}
+
+.master figure img{
+	margin-bottom: 0;
+}
+
+.kony-feature-tabbed-comparison div.clearfix{
+	margin-bottom: 0;
+}
+
+.app-icons li{
+	margin-bottom: 5px;
+}
+
+.app-panel{
+	margin-top: 10px !important; 
+}
+
+#billboard .app-headline img{
+	margin-top: -4px;
+	position:relative;
+	left:-15px;
+}
+
+.kony-feature-content-box .flexslider, .kony-feature-content-box-slider .flexslider, .kony-feature-application-item .flexslider{
+	padding-top: 15px;
+}
+
+.kony-feature-content-box-slider .flexslider img{
+	margin-bottom: 10px;
+}
+
+.secondary-tabs{
+	margin-bottom: 15px;
+}
+
+table{
+	margin-bottom: 0;
+}
+
+.master p + ul, .master h4 + ul{
+	margin-bottom: 0px; 
+}
+
+.app-listing{
+	padding-top: 0px;
+}
+
+.kony-feature-generic-cta{
+	min-height: 70px;
+}
+.kony-feature-next-steps h3, .kony-feature-next-steps-support h3{
+	margin-top: -5px;
+	padding-bottom: 7px;
+}
+
+.kony-feature-tabbed.master p + ul, .kony-feature-tabbed.master h4 + ul{
+	margin-bottom: 15px;
+	margin-top: 0;
+}
+.customer-tabs li a:hover img, .app-icons li a:hover img, .app-tabs li a:hover img{ 
+	border-style:solid;
+    border-width:1px;
+	border-color:#cccccc;
+    border-radius: 1px 1px 1px 1px;
+	}
+/* for features in tabbed content 
+	need to add more padding btn features http://dgustin.sdev.kony.com/technology/develop/integration discover tab 
+	see the data throttling tab	http://dgustin.sdev.kony.com/technology/develop/SAP_integration
+	
+*/
+.panel.group ul, .kony-feature-value-prop.master {
+list-style-image: url("/themes/kony/images/lt_grey_box.png");
+}
+
+
+/** For App Icon - to get the actual height and width of icon **/
+
+.kony-feature-customer-grid .app-tabs li a img, .kony-feature-tabbed-apps .app-tabs li a img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto !important;
+}
+
+/** Redueced the Tab height **/
+
+.secondary-tabs li a {
+    background: none repeat scroll 0 0 #F2F2F2;
+    border-bottom: 1px solid #DDDDDD;
+    border-top: 1px solid #EAEAEA;
+    color: #333333;
+    display: table-cell;
+    font-family: "Karbon-Semibold","Univers",Helvetica,Arial,sans-serif;
+    font-size: 1.3em;
+    height: 50px !important;
+    line-height: 22px;
+    margin: 0 auto -1px;
+    min-width: 100%;
+    opacity: 0.6;
+    outline: medium none;
+    padding: 0 12px 0 8px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.app-grid:first-child:before{ 
+	background: none;
+}
+
+
+/** For making apps and cutomer icons border-bottom to blue color **/
+.app-panel {
+    border-bottom: medium none;
+    border-top: 1px solid #66A8D1 !important;
+}
+table td li{
+list-style-image: url("/themes/kony/images/lt_grey_box.png");}
+
+.slides figure{
+	margin-bottom: 5px;
+}
+section{
+/*	display: inline-block; */
+	width:100%;
+}
+.master figure{
+	margin-bottom: 0; /** fix margin due to section inline-block display **/
+}
+#block-views-kony-investors-list-block{
+	clear: both;
+}
+.campaign-container{
+  width: 66%;
+}
+.campaign-container .field-name-body {
+  width:95%;
+}
+.h2Style {
+	margin-top:0px !important;
+}
+#billboard .app-headline .col{
+	padding: 0 5px 0 0;
+}
+
+.kony-feature-customer-grid .app-tabs li a img, .kony-feature-tabbed-apps .app-tabs li a img {
+    width: 90% !important;
+}
+
+.secondary-tabs li {
+    float: left;
+    height: 50px !important;
+    list-style-type: none;
+    margin: -1px 0 0;
+    padding: 0;
+    position: relative;
+    text-align: center;
+}
+.view-customizable-apps-list .container{
+    width: 100%; /* override default css due to drupal output */
+}
+
+/* New resources stuff*/
+.resourcetabs {
+  margin: 10px 0 35px 0;
+  padding-top: 10px;
+  width: 100%;
+  border-top: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea; }
+.resourcetabs li {
+    float: left;
+    margin: -1px 0 0 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    height: 100%;
+    position: relative;
+    height: 80px; }
+	.resourcetabs li a:hover  { 
+	padding: 0.6em 0.85em;
+    border-radius: 5px 5px 5px 5px;
+    text-decoration: none;
+	background-color:#006097;
+	font-family: "Karbon-Semibold", "Univers", Helvetica, Arial, sans-serif;
+      text-transform: uppercase;
+      font-size: 1.3em;
+      line-height: 22px;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+	}
+	.resourcetabs li a.current { 
+	padding: 0.6em 0.85em;
+    border-radius: 5px 5px 5px 5px;
+    text-decoration: none;
+	background-color:#006097;
+	font-family: "Karbon-Semibold", "Univers", Helvetica, Arial, sans-serif;
+      text-transform: uppercase;
+      font-size: 1.3em;
+      line-height: 22px;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+	}
+	.resourcetabs li a  { 
+	padding: 0.6em 0.85em;
+    border-radius: 5px 5px 5px 5px;
+	font-family: "Karbon-Semibold", "Univers", Helvetica, Arial, sans-serif;
+      text-transform: uppercase;
+      font-size: 1.3em;
+      line-height: 22px;
+      color: #006097;
+      text-align: center;
+	  text-decoration:none;
+	  background-color:#e8e8e8;
+	  
+	}
+	  @media only screen and (max-width: 767px) {
+    .resourcetabs li a {
+      font-size: 1.3125em; } }
+  @media only screen and (max-width: smartphone) {
+	  .resourcetabs{
+		  
+		  }
+  .resourcetabs li a {
+      font-size: 1.3125em; } }
+  @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+.resourcetabs li a {
+      font-size: 1.3125em; } }
+  @media only screen and (max-width: tablet-portrait) {
+.resourcetabs li a {
+      font-size: 1.3125em; } }
+
+/*End of New Resources Stuff*/
+
+div.map_items .col{
+    float: left;
+    width: 50%;
+}
+div.location{
+    padding-top: 1.5em;
+}
+div#contact_div p{
+    padding-top: 1.5em;
+}

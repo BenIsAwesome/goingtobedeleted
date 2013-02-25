@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the RES: News Item feature.
+ */
+
+include_once 'kony_feature_news_item.features.inc';

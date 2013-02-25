@@ -1,0 +1,11 @@
+name = Kony Downloads View
+description = Adds view for Downloads
+core = 7.x
+package = Views
+version = 7.x-1.0
+project = kony_feature_kony_downloads_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = kony_downloads

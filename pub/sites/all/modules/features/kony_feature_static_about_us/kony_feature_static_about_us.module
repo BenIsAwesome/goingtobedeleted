@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Static About Us feature.
+ */
+
+include_once 'kony_feature_static_about_us.features.inc';

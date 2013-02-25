@@ -1,0 +1,12 @@
+name = Case Studies View
+description = Adds view for Case Studies
+core = 7.x
+package = Views
+php = 5.2.4
+version = 7.x-1.2
+project = kony_feature_case_studies_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = case_studies_list

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Recent News Block List View feature.
+ */
+
+include_once 'kony_feature_recent_news_block_list_view.features.inc';

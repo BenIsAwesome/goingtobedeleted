@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Contact Mail Ids View List feature.
+ */
+
+include_once 'kony_feature_contact_mail_ids_view_list.features.inc';

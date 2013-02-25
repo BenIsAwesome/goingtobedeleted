@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the All Campaigns View feature.
+ */
+
+include_once 'kony_feature_all_campaigns_view.features.inc';

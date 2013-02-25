@@ -1,0 +1,5 @@
+using the youtube video - kony 2.0 template add an html element with an iframe like the example below.
+
+<iframe src="http://www.youtube.com/embed/L0cf7kF5-hY?rel=0&autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen></iframe>
+
+you should only update the video id in the src attribute

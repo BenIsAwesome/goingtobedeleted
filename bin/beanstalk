@@ -1,0 +1,17 @@
+#!/bin/bash
+
+ROOT_PATH=$(dirname $(dirname $(which $0))); ROOT_PATH=${ROOT_PATH/./$PWD}
+
+if [ $# = 0 ]; then
+    echo "usage: beanstalk <elastic-beanstalk-command> [arguments]"
+    exit
+fi
+
+case "$@" in
+*-h*|*--help*)
+    AWS_CREDENTIAL_FILE=$ROOT_PATH/etc/aws-credentials.sh $@
+    ;;
+*)
+    AWS_CREDENTIAL_FILE=$ROOT_PATH/etc/aws-credentials.sh $@ -j | python2.7 -mjson.tool
+    ;;
+esac

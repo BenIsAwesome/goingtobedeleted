@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony Mobile Airlines ">Kony Mobile Airlines </a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Automotive">Kony_Mobile_Automotive</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Brokerage">Kony_Mobile_Brokerage</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Commercial Banking ">Kony_Mobile_Commercial Banking </a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Consumer_Banking">Kony_Mobile_Consumer_Banking</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Healthcare">Kony_Mobile_Healthcare</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Hospitality">Kony_Mobile_Hospitality</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Insurance">Kony_Mobile_Insurance</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Media">Kony_Mobile_Media</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Private_banking">Kony_Mobile_Private_banking</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Retail">Kony_Mobile_Retail</a></td></tr>
+<tr><td><a href="kony Mobile Consumer Apps/Kony_Mobile_Utilities">Kony_Mobile_Utilities</a></td></tr>
+</tbody></table>
+</body>
+</html>

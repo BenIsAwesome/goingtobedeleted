@@ -1,0 +1,11 @@
+name = Get Started List View
+description = Get Started List View
+core = 7.x
+package = Views
+version = 7.x-1.0
+project = kony_feature_get_started_list_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = kony_get_started_list

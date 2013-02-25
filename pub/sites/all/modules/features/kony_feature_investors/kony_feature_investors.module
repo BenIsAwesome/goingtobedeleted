@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Investors feature.
+ */
+
+include_once 'kony_feature_investors.features.inc';

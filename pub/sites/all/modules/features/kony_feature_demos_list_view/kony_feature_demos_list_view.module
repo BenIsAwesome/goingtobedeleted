@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Demos List View feature.
+ */
+
+include_once 'kony_feature_demos_list_view.features.inc';

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the RES: App Demo feature.
+ */
+
+include_once 'kony_feature_res_app_demo.features.inc';

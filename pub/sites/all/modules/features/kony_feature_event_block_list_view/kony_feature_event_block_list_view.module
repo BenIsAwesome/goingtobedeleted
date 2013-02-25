@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Event Block List View feature.
+ */
+
+include_once 'kony_feature_event_block_list_view.features.inc';

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Author feature.
+ */
+
+include_once 'kony_feature_author.features.inc';

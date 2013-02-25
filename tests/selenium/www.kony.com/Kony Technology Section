@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_main_page">Technology_main_page</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_Deploy_Everwhere">Technology_Deploy_Everwhere</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_deploy_everywhere_kony_server">Technology_deploy_everywhere_kony_server</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_Develop_Faster">Technology_Develop_Faster</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_Develop_Faster_Integration">Technology_Develop_Faster_Integration</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_develop_faster_mobilizing_sap">Technology_develop_faster_mobilizing_sap</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_KonyOne_Studio">Technology_KonyOne_Studio</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_Manage_smarter">Technology_Manage_smarter</a></td></tr>
+<tr><td><a href="Technology Test Scripts/Technology_Manage_Smarter_EMM">Technology_Manage_Smarter_EMM</a></td></tr>
+</tbody></table>
+</body>
+</html>

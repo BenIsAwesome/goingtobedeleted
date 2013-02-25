@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Home Page Content feature.
+ */
+
+include_once 'kony_feature_home_page_content.features.inc';

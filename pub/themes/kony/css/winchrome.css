@@ -1,0 +1,128 @@
+body {
+  font-family: "PT Sans", sans-serif !important;
+}
+
+h1 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+h2 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+h4 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+h5 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+a.button:link, a.button:visited {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+ 
+table th {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+#dashboard ul li {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+#dashboard ul li li {
+  font-family: "PT Sans", sans-serif !important;
+}
+
+header nav .sf-menu {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.kony-feature-tabbed-comparison h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.kony-feature-tabbed-apps h3, .kony-feature-tabbed h3, .kony-feature-tabbed-about h3, .kony-feature-flexslider h3, .kony-feature-customer-grid h3, .kony-feature-tabbed-partners h3, .kony-feature-resources h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.kony-feature-key-features h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.kony-feature-next-steps h3, .kony-feature-next-steps-support h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.kony-feature-next-steps-support h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.master-billboard-homepage .persona-slider .slide-numbers p, #billboard h2{
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+  
+.kony-feature-blog-tease h3, .kony-feature-career-list h3, .kony-feature-press-tease h3, .kony-feature-news-tease h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important; 
+}
+
+.kony-feature-blog-article h3, .kony-feature-career-single h3, .kony-feature-press-article h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+
+.kony-feature-blog-categories h3, .kony-feature-blog-archives h3, .kony-feature-press-categories h3, .kony-feature-press-archives h3, .kony-feature-news-categories h3, .kony-feature-news-archives h3 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+ 
+.kony-feature-blog-related-posts h3 {
+font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.webinar-listing dl dt {
+    font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+ 
+.webinar-col h3, .webinar-col h4 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.speaker-list h3, .speaker-list h4 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+#webinar-registration h3, #webinar-registration h4 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.secondary-tabs li a {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.customer-tabs li a, .app-tabs li a, .app-icons li a {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+.app-listing h5 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+#connect h4 {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+#footer-links li {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}
+
+#footer-links li li {
+  font-family: "PT Sans", sans-serif !important;
+}
+
+#block-feedback-form .feedback-link {
+  font-family: "Univers", Helvetica, Arial, sans-serif !important;
+}

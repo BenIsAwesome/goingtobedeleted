@@ -1,0 +1,147 @@
+$columns: 12;
+$max-page-width: 1200;
+$column-width: $max-page-width/$columns;
+$column-padding: 1.42rem;
+
+$border-color: #DEDEDE;
+$light-color: lighten($border-color, 50%);
+$med-color: #FFF;
+$background-color: #333;
+$text-color: #333;
+$text-contrast-color: #FF6644;
+
+@mixin column($amount, $context: $max-page-width, $padding: $column-padding) {
+	width: percentage(($column-width * $amount) / $max-page-width);
+	padding: $padding;
+}
+
+/**/
+@mixin breakpoint($size) {
+	@media only screen and (max-width: $size) { @content; }
+}
+
+@font-face {
+    font-family: 'BemioItalicRegular';
+    src: url('type/bemio_italic-webfont.eot');
+    src: url('type/bemio_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('type/bemio_italic-webfont.woff') format('woff'),
+         url('type/bemio_italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+body {
+	font-size: 14px;
+	font-family: 'Univers', Helvetica, Arial, sans-serif;
+	background-color: $background-color;	
+	color: $text-color;
+	
+	a, a:visited {
+		color: $text-contrast-color;
+	}
+}
+
+.container {
+	margin: 0 auto;
+	max-width: $max-page-width + px;
+	box-shadow: 0 0 2px #fff;
+	background-color: #fff;
+}
+
+header {
+	margin: 0;
+	@include column(12);
+	border-bottom: 1px solid $border-color;
+	
+	h1 {
+		margin: 0;
+		padding: 0;
+	}
+}
+
+#main {
+	margin: 0;
+	float: left;
+	@include column(12, $padding: 0);
+	background-color: $light-color;
+}
+
+#content {
+	float: left;
+	@include column(8, $padding: 0);
+	
+	@include breakpoint(770px) {
+		clear: left;
+		@include column(12, $padding: 0);
+	}
+	
+	article {
+		@include column(12);
+	}
+	
+	p {
+		padding: 1rem;
+		line-height: 1.4rem;
+	}
+	
+	figure {
+		@include column(5);
+		min-width: 240px;
+		float: right;
+		border: .5rem solid #fff;
+		border-bottom: none;
+		
+		@include breakpoint(600px) {
+			min-width: 280px;
+			margin: 0 auto;
+			float: none;
+		}
+
+		img {
+			max-width: 100%;
+			margin: 0;
+		}
+		
+		figcaption {
+			padding: 0;
+			margin: 0;
+			text-align: center;
+			background-color: #fff;
+		}
+	}
+}
+
+aside {
+	float: left;
+	@include column(4);
+	background-color: papayawhip;
+	border-left: 2px solid $border-color;
+	
+	h2 {
+	}
+	
+	@include breakpoint(770px) {
+		clear: left;
+		@include column(12);
+		border-top: 1px solid $border-color;
+	}
+	
+	ul {
+		list-style: none;
+		padding: 0;	
+		line-height: 1rem;
+		
+		li {
+			line-height: 1.3rem;
+		}
+	}
+}
+
+footer {
+	@include column(12);
+	text-align: center;
+	background-color: $med-color;
+	border-top: 1px solid $border-color;
+}

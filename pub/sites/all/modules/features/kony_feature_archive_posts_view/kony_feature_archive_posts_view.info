@@ -1,0 +1,12 @@
+name = Archive Posts View
+description = Adds view for Archived Blog Post
+core = 7.x
+package = Views
+php = 5.2.4
+version = 7.x-1.2
+project = kony_feature_archive_posts_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = archive_posts

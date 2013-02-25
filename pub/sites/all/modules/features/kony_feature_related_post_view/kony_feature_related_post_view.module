@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Related Post View feature.
+ */
+
+include_once 'kony_feature_related_post_view.features.inc';

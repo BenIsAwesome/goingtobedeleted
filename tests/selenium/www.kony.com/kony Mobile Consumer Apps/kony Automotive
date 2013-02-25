@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.kony.com/" />
+<title>Kony Mobile Automotive</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Kony Mobile Automotive</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/apps/browse/kony-mobile-automotive</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=h2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h2</td>
+	<td>Kony Mobile Automotive</td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>link=Contact sales</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=h3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//article[@id='pri-content']/div/section/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=section.kony-feature-tabbed.master</td>
+	<td></td>
+</tr>
+<tr>
+	<td>selectWindow</td>
+	<td>null</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Benefits</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Features</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Options</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Resources</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=ul.resources-tabs.three-tabs &gt; li &gt; span &gt; a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=div.resource.three &gt; h4</td>
+	<td>DataSheet MobileAutomotive</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='data-sheets']/div[2]/h4</td>
+	<td>DataSheet FactSheet</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Resources</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'Webinars')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=ul.resources-tabs.three-tabs &gt; li &gt; span &gt; a.current</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'Webinars')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Resources</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'White Papers')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Resources</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'White Papers')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Resources</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'White Papers')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'White Papers')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//a[contains(text(),'Demos')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=section.kony-feature-related-apps.master &gt; h3</td>
+	<td>Related Apps</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=View more apps</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>5000</td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

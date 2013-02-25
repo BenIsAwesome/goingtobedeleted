@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the RES: External Link feature.
+ */
+
+include_once 'kony_feature_res_external_link.features.inc';

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kony Resources View feature.
+ */
+
+include_once 'kony_feature_kony_resources_view.features.inc';

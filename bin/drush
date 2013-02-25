@@ -1,0 +1,14 @@
+#!/bin/bash
+
+ROOT_PATH=$(dirname $(dirname $(which $0))); ROOT_PATH=${ROOT_PATH/./$PWD}
+
+DRUSH=$(which $ROOT_PATH/drush/drush)
+
+eval "export $(grep SetEnv $ROOT_PATH/.htaccess | {
+    while read _ key value; do
+        value=${value//\\\"//}
+        DRUSH_ENV="$key=$value $DRUSH_ENV"
+    done; echo $DRUSH_ENV
+})"
+
+$DRUSH --alias-path=$ROOT_PATH/etc/ --root=$ROOT_PATH/pub/ $@

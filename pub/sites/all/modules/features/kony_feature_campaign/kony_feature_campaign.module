@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kony Feature Campaign feature.
+ */
+
+include_once 'kony_feature_campaign.features.inc';
