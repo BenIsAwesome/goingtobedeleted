@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Software Documentation feature.
+ */
+
+include_once 'kony_feature_software_documentation.features.inc';

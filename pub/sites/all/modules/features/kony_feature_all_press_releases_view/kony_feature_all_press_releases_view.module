@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the All Press Releases View feature.
+ */
+
+include_once 'kony_feature_all_press_releases_view.features.inc';

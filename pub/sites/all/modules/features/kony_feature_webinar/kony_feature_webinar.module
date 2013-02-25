@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the RES: Webinar feature.
+ */
+
+include_once 'kony_feature_webinar.features.inc';

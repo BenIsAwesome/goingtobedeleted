@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tabbed Content feature.
+ */
+
+include_once 'kony_feature_tabbed_content.features.inc';

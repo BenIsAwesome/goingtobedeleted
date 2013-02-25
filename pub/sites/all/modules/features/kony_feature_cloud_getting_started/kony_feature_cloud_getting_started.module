@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Getting Started feature.
+ */
+
+include_once 'kony_feature_cloud_getting_started.features.inc';

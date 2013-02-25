@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Resource List feature.
+ */
+
+include_once 'kony_feature_resource_list.features.inc';

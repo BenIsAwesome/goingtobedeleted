@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_CRM">Kony_Mobile_CRM</a></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_EAM">Kony_Mobile_EAM</a></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_Enterprise_Healthcare">Kony_Mobile_Enterprise_Healthcare</a></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_Field_Services">Kony_Mobile_Field_Services</a></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_Financial_Advisor">Kony_Mobile_Financial_Advisor</a></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_HR">Kony_Mobile_HR</a></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_Insurance_Agent">Kony_Mobile_Insurance_Agent</a></td></tr>
+<tr><td><a href="Kony Mobile Enterprise Apps/Kony_Mobile_Supply_Chain">Kony_Mobile_Supply_Chain</a></td></tr>
+</tbody></table>
+</body>
+</html>

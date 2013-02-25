@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Home Page Slider feature.
+ */
+
+include_once 'kony_feature_home_page_slider.features.inc';

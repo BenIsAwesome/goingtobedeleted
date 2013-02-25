@@ -1,0 +1,12 @@
+name = Partners List View
+description = Enables the Customizable App List View used on landing page
+core = 7.x
+package = Views
+php = 5.2.4
+version = 7.x-1.3
+project = kony_feature_partners_list_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = partner_ecosystem

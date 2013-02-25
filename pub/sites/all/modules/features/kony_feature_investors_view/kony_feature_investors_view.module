@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Investors View feature.
+ */
+
+include_once 'kony_feature_investors_view.features.inc';

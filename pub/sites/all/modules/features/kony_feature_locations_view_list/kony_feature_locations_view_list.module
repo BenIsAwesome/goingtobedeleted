@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Locations view list feature.
+ */
+
+include_once 'kony_feature_locations_view_list.features.inc';

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kony Box Slideshow feature.
+ */
+
+include_once 'kony_feature_box_slideshow.features.inc';

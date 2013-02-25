@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Data Sheets View feature.
+ */
+
+include_once 'kony_feature_data_sheets_view.features.inc';

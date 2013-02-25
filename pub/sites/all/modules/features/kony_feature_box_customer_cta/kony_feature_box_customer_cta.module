@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Box: Customer CTA feature.
+ */
+
+include_once 'kony_feature_box_customer_cta.features.inc';

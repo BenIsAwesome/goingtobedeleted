@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.kony.com/" />
+<title>Contact</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Contact</td></tr>
+</thead><tbody>
+<tr>
+	<td>click</td>
+	<td>link=Kony</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Kony</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Contact</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Contact</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Company</td>
+	<td>kony</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=FirstName</td>
+	<td>Frankie</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Email</td>
+	<td>ben@salsasynergy.com</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Phone</td>
+	<td>4076208803</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Title</td>
+	<td>Engineer</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=Industry</td>
+	<td>label=Building Materials</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=Country</td>
+	<td>label=Antarctica</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=option[value=&quot;Antarctica&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Comments_NS</td>
+	<td>This is a test from the web team.</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=mktFrmSubmit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h2</td>
+	<td>Thanks for Contacting Kony</td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=h3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=img.right</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=img.right</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=a.fancybox-item.fancybox-close</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=p</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//article[@id='pri-content']/section/p[2]</td>
+	<td>Sincerely,<br />The Team @ Kony</td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=section.kony-feature-next-steps.master &gt; h3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=h4</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=i.icon-arrow-right</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>//article[@id='pri-content']/section[2]/div/div[2]/h4</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//article[@id='pri-content']/section[2]/div/div[2]/a/i</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>//article[@id='pri-content']/section[2]/div/div[3]/h4</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//article[@id='pri-content']/section[2]/div/div[3]/a/i</td>
+	<td></td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>3000</td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

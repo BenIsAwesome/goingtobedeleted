@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the BOX:Full-Size Slideshow feature.
+ */
+
+include_once 'kony_feature_box_full_size_slideshow.features.inc';

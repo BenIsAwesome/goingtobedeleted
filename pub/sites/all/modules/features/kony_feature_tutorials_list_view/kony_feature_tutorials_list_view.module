@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tutorials List View feature.
+ */
+
+include_once 'kony_feature_tutorials_list_view.features.inc';

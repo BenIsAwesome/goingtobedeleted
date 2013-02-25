@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Product Details feature.
+ */
+
+include_once 'kony_feature_product_details.features.inc';

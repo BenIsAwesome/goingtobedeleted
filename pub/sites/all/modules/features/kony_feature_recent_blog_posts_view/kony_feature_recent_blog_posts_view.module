@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Recent Blog Posts View feature.
+ */
+
+include_once 'kony_feature_recent_blog_posts_view.features.inc';

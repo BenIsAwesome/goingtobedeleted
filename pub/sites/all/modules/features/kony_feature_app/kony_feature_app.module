@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the kony_feature_app feature.
+ */
+
+include_once 'kony_feature_app.features.inc';

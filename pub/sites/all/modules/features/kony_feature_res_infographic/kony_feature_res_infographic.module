@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the RES: Infographic feature.
+ */
+
+include_once 'kony_feature_res_infographic.features.inc';

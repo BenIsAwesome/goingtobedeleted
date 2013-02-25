@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the White Paper feature.
+ */
+
+include_once 'kony_feature_white_paper.features.inc';

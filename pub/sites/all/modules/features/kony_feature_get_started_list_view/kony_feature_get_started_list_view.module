@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Get Started List View feature.
+ */
+
+include_once 'kony_feature_get_started_list_view.features.inc';

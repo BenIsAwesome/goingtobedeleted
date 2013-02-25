@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the RES: Press Release feature.
+ */
+
+include_once 'kony_feature_press_release.features.inc';

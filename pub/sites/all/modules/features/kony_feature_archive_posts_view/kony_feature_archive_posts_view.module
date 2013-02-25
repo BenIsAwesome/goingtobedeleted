@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Archive Posts View feature.
+ */
+
+include_once 'kony_feature_archive_posts_view.features.inc';

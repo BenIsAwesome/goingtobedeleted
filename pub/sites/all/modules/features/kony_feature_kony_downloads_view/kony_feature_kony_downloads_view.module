@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kony Downloads View feature.
+ */
+
+include_once 'kony_feature_kony_downloads_view.features.inc';

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Webinar List - About Page feature.
+ */
+
+include_once 'kony_feature_webinar_list_about_page.features.inc';

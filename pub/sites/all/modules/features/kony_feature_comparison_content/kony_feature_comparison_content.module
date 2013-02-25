@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Comparison Content feature.
+ */
+
+include_once 'kony_feature_comparison_content.features.inc';

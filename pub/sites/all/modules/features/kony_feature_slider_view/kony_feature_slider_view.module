@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Slider View feature.
+ */
+
+include_once 'kony_feature_slider_view.features.inc';

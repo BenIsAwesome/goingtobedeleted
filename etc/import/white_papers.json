@@ -1,0 +1,4059 @@
+[
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Sample White Paper Description Sample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper Description</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Sample White Paper Description Sample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper DescriptionSample White Paper Description</p>"
+                }
+            ]
+        }, 
+        "changed": "1350373499", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350373213", 
+        "data": "b:0;", 
+        "domain_site": false, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "11", 
+                    "filemime": "application/pdf", 
+                    "filename": "date.pdf", 
+                    "filesize": "27381", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350373213", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/date.pdf", 
+                    "uuid": "94098a43-2ac4-a0a4-89ae-a5914b643ac6"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": {
+            "und": [
+                {
+                    "alt": "White Paper image text", 
+                    "fid": "13", 
+                    "filemime": "image/jpeg", 
+                    "filename": "screenshot_placeholder2.jpg", 
+                    "filesize": "50508", 
+                    "height": "415", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350373213", 
+                    "title": "White Paper image", 
+                    "type": "image", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-image://www/white_paper/img/screenshot_placeholder2.jpg", 
+                    "uuid": "01c36c6f-4df9-b4a4-edb7-4bb94b31631a", 
+                    "width": "560"
+                }
+            ]
+        }, 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350373213", 
+        "last_comment_uid": "1", 
+        "log": "", 
+        "menu": null, 
+        "name": "admin", 
+        "nid": "55", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/sample-white-paper", 
+            "language": "und", 
+            "pid": "93", 
+            "source": "node/55"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350373499", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "www.kony.com"
+        ], 
+        "title": "Sample White Paper", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "1", 
+        "uuid": "1f3644d6-d9f9-1294-b125-55b20cffae25", 
+        "vid": "103", 
+        "vuuid": "216e506b-496b-33c4-4548-5803393e4370"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": null, 
+                    "summary": null, 
+                    "value": "<p>The KonyOne mobile application platform is now optimized for IBM PureSystems, enabling rapid application delivery. Learn the best ways to plan and implement scaling strategies in a multi-channel environment.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350638940", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": [], 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "Created by FeedsNodeProcessor", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "224", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/kony-ibm-puresystems", 
+            "language": "und", 
+            "pid": "198", 
+            "source": "node/224"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638940", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Kony on IBM PureSystems", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "1cb9375b-892c-88b4-0d24-32f055355796", 
+        "vid": "314", 
+        "vuuid": "656043d7-a0bf-b204-f54c-37b9a8a951e1"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Kony revolutionizes the automotive industry with its unique solution to engage users and have them overcome the usual obstacles faced in the automotive industry.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Kony revolutionizes the automotive industry with its unique solution to engage users and have them overcome the usual obstacles faced in the automotive industry.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639174", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "192", 
+                    "filemime": "text/html; charset=utf-8", 
+                    "filename": "Kony-WP-Automotive-F01.pdf", 
+                    "filesize": "33309", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-WP-Automotive-F01.pdf", 
+                    "uuid": "30eecc24-9687-b294-5985-6fda11ee9bad"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "225", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/kony-mobile-automotive-whitepaper", 
+            "language": "und", 
+            "pid": "199", 
+            "source": "node/225"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639174", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Kony Mobile Automotive Whitepaper", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "ce87eb93-c66c-fc14-0126-3602d9d9464f", 
+        "vid": "360", 
+        "vuuid": "4dc05739-59f8-94a4-054f-62393b8aecbf"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Understand how to build an action plan to combat the complexity of mobile application development.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Understand how to build an action plan to combat the complexity of mobile application development.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639176", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "193", 
+                    "filemime": "application/pdf; charset=binary", 
+                    "filename": "WP_Kony_MobAppDev.pdf", 
+                    "filesize": "1363622", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/WP_Kony_MobAppDev.pdf", 
+                    "uuid": "979816cb-510f-5854-f5c9-85c1649b09c5"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "226", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mobile-application-development-meets-mainstream", 
+            "language": "und", 
+            "pid": "200", 
+            "source": "node/226"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639176", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": " Mobile Application Development Meets the Mainstream", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "db4340ec-0a3a-adf4-b522-8631943c90fd", 
+        "vid": "361", 
+        "vuuid": "b874178a-d4c3-6844-b5c5-1feb3e110638"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Click below to get the latest insight in Mobile Application Management in this Kony featured White Paper.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Click below to get the latest insight in Mobile Application Management in this Kony featured White Paper.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639179", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "194", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "MAM-Meeting-the-BYOD-Challenge.html", 
+                    "filesize": "26272", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/MAM-Meeting-the-BYOD-Challenge.html", 
+                    "uuid": "8f754428-8e99-5fe4-8581-67d43d66f57e"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "227", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/kony-mobile-application-management-whitepaper", 
+            "language": "und", 
+            "pid": "201", 
+            "source": "node/227"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639179", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Kony Mobile Application Management Whitepaper", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "a299ab35-0561-eb94-ed43-b52f075d4e8a", 
+        "vid": "362", 
+        "vuuid": "db300ddd-0e8e-f024-957d-9c37eae0be0c"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>In this white paper series, FitForCommerce takes a look at next-generation mobile strategies after identifying key learnings from the experience of early adopters.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>In this white paper series, FitForCommerce takes a look at next-generation mobile strategies after identifying key learnings from the experience of early adopters.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639182", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "195", 
+                    "filemime": "text/html; charset=utf-8", 
+                    "filename": "Kony-FFC-Whitepaper-Staying_Ahead_of_Curve-Mobile_Commerce-Final.pdf", 
+                    "filesize": "33393", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-FFC-Whitepaper-Staying_Ahead_of_Curve-Mobile_Commerce-Final.pdf", 
+                    "uuid": "fa683f99-dbab-8134-f561-2435abeee627"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "228", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/staying-ahead-curve", 
+            "language": "und", 
+            "pid": "202", 
+            "source": "node/228"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639182", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Staying Ahead of the Curve", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "f1a7705f-bc7e-8b64-85d4-4ecd72cbb5c2", 
+        "vid": "363", 
+        "vuuid": "eb3efe13-3357-4df4-2d0b-74e41ebd9566"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>The emerging trend is that mobile is more embedded within retail and consumer markets today from an enterprise-wide perspective (i.e. in-store, outside the store, cross-channel, and headquarter-based) than ever before.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>The emerging trend is that mobile is more embedded within retail and consumer markets today from an enterprise-wide perspective (i.e. in-store, outside the store, cross-channel, and headquarter-based) than ever before.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639185", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "196", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "White-Paper-Aberdeen-Elevating-Mobile-Commerce-as-an-Enterprise-Wide-Strategy.html", 
+                    "filesize": "26617", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/White-Paper-Aberdeen-Elevating-Mobile-Commerce-as-an-Enterprise-Wide-Strategy.html", 
+                    "uuid": "ad6bcebc-2aca-8b24-f177-c19b5ee39afe"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "229", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/elevating-mobile-commerce-enterprise-wide-strategy", 
+            "language": "und", 
+            "pid": "203", 
+            "source": "node/229"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639185", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Elevating Mobile Commerce as an Enterprise-Wide Strategy", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "5f85e3b2-1097-bdd4-4980-c6034691e5ce", 
+        "vid": "364", 
+        "vuuid": "dbbbbb5a-d222-9ae4-5169-6643df1d05cc"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>In this white paper, Lauren Freedman shares the results of an online survey of 1000 consumers, captures the retailer perspective from the e-tailing group\u2019s 2012 Annual Merchant Survey, highlights a discussion on mobile investment and KPIs, and provides key insights garnered from \u201cin-the-trenches\u201d interviews with retailers.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>In this white paper, Lauren Freedman shares the results of an online survey of 1000 consumers, captures the retailer perspective from the e-tailing group\u2019s 2012 Annual Merchant Survey, highlights a discussion on mobile investment and KPIs, and provides key insights garnered from \u201cin-the-trenches\u201d interviews with retailers.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639188", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "197", 
+                    "filemime": "text/html; charset=utf-8", 
+                    "filename": "KonyWP-MobileMarriage.pdf", 
+                    "filesize": "33307", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/KonyWP-MobileMarriage.pdf", 
+                    "uuid": "5fa98cd0-c578-d254-15d3-4eb089e4e3a6"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "230", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mobile-marriage-consumers-covet-retailers-embrace", 
+            "language": "und", 
+            "pid": "204", 
+            "source": "node/230"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639188", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "A Mobile Marriage: Consumers Covet, Retailers Embrace", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "f4f285b7-6cb7-ba44-a144-67448dc713ec", 
+        "vid": "365", 
+        "vuuid": "3e4779e9-5b10-82f4-157f-b5ef0876edb2"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Stay up to date with the Mobile Community through Kony.\u00a0 We provide the latest research and business developments in the mobile market.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Stay up to date with the Mobile Community through Kony.&nbsp; We provide the latest research and business developments in the mobile market.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639193", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "198", 
+                    "filemime": "application/pdf; charset=binary", 
+                    "filename": "MGI%2520Research%2520Mobile%2520Perspectives%2520-%2520A%2520Survey%2520of%2520Enterprise%2520Plans.pdf", 
+                    "filesize": "1486494", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/MGI%2520Research%2520Mobile%2520Perspectives%2520-%2520A%2520Survey%2520of%2520Enterprise%2520Plans.pdf", 
+                    "uuid": "d21baede-8539-46e4-099b-f60256c47d93"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "231", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mgi-research-mobile-perspectives-survey-enterprise-plans", 
+            "language": "und", 
+            "pid": "205", 
+            "source": "node/231"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639193", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "MGI Research Mobile Perspectives - A Survey of Enterprise Plans", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "64287b28-c125-3af4-bd6c-4f7bcd0c601c", 
+        "vid": "366", 
+        "vuuid": "9aa93c77-33de-f8c4-594b-fbb68b086694"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": null, 
+                    "summary": null, 
+                    "value": "<p>\n\tWant to get a better return on your mobile strategy? Download the white paper by answering the questions.</p>\n"
+                }
+            ]
+        }, 
+        "changed": "1350638940", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": null, 
+                    "display": "1", 
+                    "fid": "199", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "AutoLogin.do?d=292624421056148181", 
+                    "filesize": "14683", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/AutoLogin.do?d=292624421056148181", 
+                    "uuid": "22d4ba90-a89a-8124-85ad-caebe6a21fac"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "Created by FeedsNodeProcessor", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "232", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/better-way-go-mobile-interactive-white-paper", 
+            "language": "und", 
+            "pid": "206", 
+            "source": "node/232"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638940", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "A Better Way To Go Mobile - Interactive White Paper", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "fd12b68c-17ee-e5c4-bd6a-65aa4b70624a", 
+        "vid": "322", 
+        "vuuid": "9071a9df-ad18-a654-0179-9df51f1202c2"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Learn how you can find the right mix of what you need to implement BYOD (Bring Your Own Device) quickly and manage it end-to-end, without introducing new IT processes to manage.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Learn how you can find the right mix of what you need to implement BYOD (Bring Your Own Device) quickly and manage it end-to-end, without introducing new IT processes to manage.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639195", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "200", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Harnessing-BYOD-Phenomenon-an-ITGuide.html", 
+                    "filesize": "26134", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Harnessing-BYOD-Phenomenon-an-ITGuide.html", 
+                    "uuid": "2189316b-5e14-8ac4-49a1-7b808b766299"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "233", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/harnessing-byod-phenomenon-\u2013-it-guide", 
+            "language": "und", 
+            "pid": "207", 
+            "source": "node/233"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639195", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Harnessing BYOD Phenomenon \u2013 an IT Guide", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "19f8d07b-7fe9-9d54-41a5-6f097a813701", 
+        "vid": "367", 
+        "vuuid": "e365fa9a-f430-af34-616d-b58cf662e463"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": [], 
+        "changed": "1350638940", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": null, 
+                    "display": "1", 
+                    "fid": "201", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Aberdeen-White-Paper-The-Mobile-Payment-Opportunity-Get-Paid-Anytime-Anywhere.html", 
+                    "filesize": "26142", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Aberdeen-White-Paper-The-Mobile-Payment-Opportunity-Get-Paid-Anytime-Anywhere.html", 
+                    "uuid": "81cb31f2-3052-3734-8584-56da242afd84"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "Created by FeedsNodeProcessor", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "234", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/aberdeen-report-mobile-payment-opportunity", 
+            "language": "und", 
+            "pid": "208", 
+            "source": "node/234"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638940", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Aberdeen Report: The Mobile Payment Opportunity", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "ccdc1148-78aa-88c4-f934-ba39c1e9f52d", 
+        "vid": "324", 
+        "vuuid": "0385db1c-3245-2614-cd5b-e82897b5dc38"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": null, 
+                    "summary": null, 
+                    "value": "<p>\n\tThis exclusive 36-page guide provides a framework businesses can use to help transition their mobile application strategies from disposable to reusable, from artisanal to industrial. It also catalogs the various tools and purchase considerations for different types of mobile deployments, and shows how to build a business case for mobile deployments within the organization.</p>\n"
+                }
+            ]
+        }, 
+        "changed": "1350638940", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": null, 
+                    "display": "1", 
+                    "fid": "202", 
+                    "filemime": "text/html; charset=utf-8", 
+                    "filename": "MGI-Research-Mobile-Computing-Strategies-Mobile-Enterprise-Application-Platforms-A-Buyers-Guide.html", 
+                    "filesize": "26717", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/MGI-Research-Mobile-Computing-Strategies-Mobile-Enterprise-Application-Platforms-A-Buyers-Guide.html", 
+                    "uuid": "48629ab7-037e-c2a4-517a-eaf256e42e98"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "Created by FeedsNodeProcessor", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "235", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mgi-research-mobile-enterprise-application-platforms-meap-buyers-guide", 
+            "language": "und", 
+            "pid": "209", 
+            "source": "node/235"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638940", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "MGI Research: Mobile Enterprise Application Platforms (MEAP) Buyer's Guide", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "6f879011-5b32-9d44-7146-3580bddf43df", 
+        "vid": "325", 
+        "vuuid": "80db952f-3d5d-bf74-e509-04ffc874e4e1"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": [], 
+        "changed": "1350638940", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": null, 
+                    "display": "1", 
+                    "fid": "203", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Mobile-technology-enhances-health-plan-member-engagement.html", 
+                    "filesize": "26197", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Mobile-technology-enhances-health-plan-member-engagement.html", 
+                    "uuid": "852504dd-82f6-46d4-ed1d-326c47002f6c"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "Created by FeedsNodeProcessor", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "236", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mobile-technology-enhances-health-plan-member-engagement", 
+            "language": "und", 
+            "pid": "210", 
+            "source": "node/236"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638940", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Mobile technology enhances health plan member engagement", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "0356241a-e6ea-9e44-fd7e-e2d2884b3abd", 
+        "vid": "326", 
+        "vuuid": "8466fe14-e73c-55a4-b1a7-95258f1d01e1"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Learn how KonyOne's HTML5-Ready solution can benefit your organization today and for the future</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Learn how KonyOne's HTML5-Ready solution can benefit your organization today and for the future</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639170", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "204", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-The-Power-of-Choice-with-Kony-HTML5-Ready-Solutions.html", 
+                    "filesize": "26183", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-The-Power-of-Choice-with-Kony-HTML5-Ready-Solutions.html", 
+                    "uuid": "c0de8ef5-e277-3724-dd27-666f8741aea8"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "237", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/power-choice-kony-html5-ready-solutions", 
+            "language": "und", 
+            "pid": "211", 
+            "source": "node/237"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639170", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "The Power of Choice with Kony HTML5-Ready Solutions", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "806332cb-ae6c-7584-a5ff-9b34f3092652", 
+        "vid": "359", 
+        "vuuid": "6a2408d8-35a6-0ca4-4196-3481ae26ec5a"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Learn how specialized mobile applications can help pharmacies enhance patient health and wellness; foster enduring patient-pharmacist relationships; raise store visibility and brand recognition; strengthen customer loyalty; and produce industry cost savings.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Learn how specialized mobile applications can help pharmacies enhance patient health and wellness; foster enduring patient-pharmacist relationships; raise store visibility and brand recognition; strengthen customer loyalty; and produce industry cost savings.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639149", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "205", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Mobile-Applications-Increase-Pharmacy-Profitability.html", 
+                    "filesize": "26182", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Mobile-Applications-Increase-Pharmacy-Profitability.html", 
+                    "uuid": "4c05fb64-3566-aa44-c9b9-f590e0e184c2"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "238", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mobile-applications-increase-pharmacy-profitability", 
+            "language": "und", 
+            "pid": "212", 
+            "source": "node/238"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639149", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Mobile Applications Increase Pharmacy Profitability", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "cb9b4eec-dc8d-10d4-c911-652dd1b58e3e", 
+        "vid": "358", 
+        "vuuid": "972a9f67-73f1-3484-8ddf-da1d34a03c7e"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": [], 
+        "changed": "1350638940", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": null, 
+                    "display": "1", 
+                    "fid": "206", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Aberdeen-White-Paper-The-Mobile-Payment-Opportunity-Get-Paid-Anytime-Anywhere-CS.html", 
+                    "filesize": "26148", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Aberdeen-White-Paper-The-Mobile-Payment-Opportunity-Get-Paid-Anytime-Anywhere-CS.html", 
+                    "uuid": "9cc6f5dd-9ab4-f944-c9ee-ce7818f02453"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "Created by FeedsNodeProcessor", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "239", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/aberdeen-report-mobile-and-tablet-shopping-demystified", 
+            "language": "und", 
+            "pid": "213", 
+            "source": "node/239"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350638940", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Aberdeen Report: Mobile and Tablet Shopping Demystified", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "072b0710-fa58-40d4-b10c-917419f0307a", 
+        "vid": "329", 
+        "vuuid": "a307bc0c-cdbc-3fa4-91f9-622858a925db"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Forrester Research Report - For Consumer Product Strategy Professionals</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Forrester Research Report - For Consumer Product Strategy Professionals</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639081", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "207", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Forrester-White-Paper-Why-The-Web-Versus-Application-Debate-is-Irrelevant-to-your-Mobile-Product-Strategy-2.html", 
+                    "filesize": "26269", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Forrester-White-Paper-Why-The-Web-Versus-Application-Debate-is-Irrelevant-to-your-Mobile-Product-Strategy-2.html", 
+                    "uuid": "b1f977af-e054-df04-5daa-5aa38afcca78"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "240", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/why-\u201cweb-versus-application\u201d-debate-irrelevant-your-mobile-product-strategy", 
+            "language": "und", 
+            "pid": "214", 
+            "source": "node/240"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639081", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Why The \u201cWeb Versus Application\u201d Debate Is Irrelevant To Your Mobile Product Strategy", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "6bec85c1-e2ac-82c4-d58a-591794c176bd", 
+        "vid": "345", 
+        "vuuid": "bc10bc3f-c28e-2c34-c945-69e910372038"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Results from more than 100 Fortune 500 brands about their mobile computing challenges and strategic initiatives</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Results from more than 100 Fortune 500 brands about their mobile computing challenges and strategic initiatives</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639083", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "208", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Kony-Solutions-Second-Annual-Mobile-Marketing-and-Commerce-Study.html", 
+                    "filesize": "26216", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Kony-Solutions-Second-Annual-Mobile-Marketing-and-Commerce-Study.html", 
+                    "uuid": "964b4123-9e67-be24-597e-bb6b53d92b28"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "241", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/konys-second-annual-mobile-marketing-and-commerce-study", 
+            "language": "und", 
+            "pid": "215", 
+            "source": "node/241"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639083", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Kony's Second Annual Mobile Marketing and Commerce Study", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "de5b5789-3cee-55c4-d1c3-ebb9e342351c", 
+        "vid": "346", 
+        "vuuid": "80a1b8df-2f34-9ac4-fd4b-73b81d87b312"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Forrester Research cites Kony\u2019s development tools as \u201cBest-of-Breed\u201d</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Forrester Research cites Kony\u2019s development tools as \u201cBest-of-Breed\u201d</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639086", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "209", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Forrester-White-Paper-Market-Overview-Mobile-Commerce-Solutions-For-Retail.html", 
+                    "filesize": "26212", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Forrester-White-Paper-Market-Overview-Mobile-Commerce-Solutions-For-Retail.html", 
+                    "uuid": "727f9d42-a575-0594-d18e-e8367970ae32"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "242", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/forrester-mobile-commerce-solutions-retail", 
+            "language": "und", 
+            "pid": "216", 
+            "source": "node/242"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639086", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Forrester: Mobile Commerce Solutions For Retail", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "67375a81-aadd-5cc4-a9e1-653ff486d47d", 
+        "vid": "347", 
+        "vuuid": "48281153-100f-ce04-61cf-cd52643e58c1"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Technology Vendors: Chasing a Moving Target</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Technology Vendors: Chasing a Moving Target</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639090", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "210", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Mobile-Banking-Technology-Vendors.html", 
+                    "filesize": "26121", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Mobile-Banking-Technology-Vendors.html", 
+                    "uuid": "cba0b316-4975-6dd4-89c1-0338f7c613ec"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "243", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/review-north-american-consumer-mobile-banking", 
+            "language": "und", 
+            "pid": "217", 
+            "source": "node/243"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639090", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Review of North American Consumer Mobile Banking", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "7914e3ee-72a6-05f4-b5b3-2174bec8ef0d", 
+        "vid": "348", 
+        "vuuid": "b1957384-c9ca-c974-2dc0-4f8b1614bbbf"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> In this report, Forrester compares the mobile behavior of US online shoppers for consumer electronics, apparel, and home goods to illustrate these differences and how they have affected mobile service strategies across industries.</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> In this report, Forrester compares the mobile behavior of US online shoppers for consumer electronics, apparel, and home goods to illustrate these differences and how they have affected mobile service strategies across industries.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639093", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "211", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "White-Paper-Forrester-Mobile-Technographics-US-Online-Shoppers.html", 
+                    "filesize": "26112", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/White-Paper-Forrester-Mobile-Technographics-US-Online-Shoppers.html", 
+                    "uuid": "287a853d-6270-7294-3d01-8925efa5da25"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "244", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mobile-technographics\u00ae-us-online-shoppers-choosing-right-approach-your-target-consumers", 
+            "language": "und", 
+            "pid": "218", 
+            "source": "node/244"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639093", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Mobile Technographics\u00ae: US Online Shoppers Choosing The Right Approach For Your Target Consumers ", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "e2f3eaae-b206-6304-b567-6aa0fc1ea6f3", 
+        "vid": "349", 
+        "vuuid": "6962493e-24c0-ff84-edaf-8ad199084114"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> How to balance the cost of developing and deploying mobile offerings across multiple devices.\u00a0</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> How to balance the cost of developing and deploying mobile offerings across multiple devices.&nbsp;</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639095", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "212", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Taking-your-Brand-Mobile.html", 
+                    "filesize": "26110", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Taking-your-Brand-Mobile.html", 
+                    "uuid": "6e93494b-c129-5454-e5be-1a9af822de27"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "245", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/best-practices-taking-your-brand-mobile", 
+            "language": "und", 
+            "pid": "219", 
+            "source": "node/245"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639095", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": " Best Practices for Taking Your Brand Mobile ", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "fb04c9b4-5936-6d14-311b-e9ef40ed76d5", 
+        "vid": "350", 
+        "vuuid": "c5214e3e-141d-7d84-5deb-bbae4ae9871c"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> The challenges of developing, launching and maintaining mobile applications are daunting and make organizations vulnerable to costly mistakes.</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> The challenges of developing, launching and maintaining mobile applications are daunting and make organizations vulnerable to costly mistakes.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639098", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "213", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-The-Six-Gotchas-Common-Misconceptions-in-Mobile-Application-Development.html", 
+                    "filesize": "26243", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-The-Six-Gotchas-Common-Misconceptions-in-Mobile-Application-Development.html", 
+                    "uuid": "94537b01-0499-3404-7d7c-62aed85a58a2"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "246", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/six-gotchas-common-misconceptions-mobile-applications-development", 
+            "language": "und", 
+            "pid": "220", 
+            "source": "node/246"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639098", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "The Six Gotchas: Common Misconceptions In Mobile Applications Development  ", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "b3ff51bc-7317-0eb4-0ddb-66cf2853de50", 
+        "vid": "351", 
+        "vuuid": "0cc3bfaa-51d0-3c84-4131-b270171e02da"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> A survey in mobile users\u2019 travel habits indicates widespread usage of mobile devices in planning leisure trips</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> A survey in mobile users\u2019 travel habits indicates widespread usage of mobile devices in planning leisure trips</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639101", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "214", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Traveler-Survey-Says-A-Multi-Device-Cross-Channel-Mobile-Strategy-is-Essential.html", 
+                    "filesize": "26260", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Traveler-Survey-Says-A-Multi-Device-Cross-Channel-Mobile-Strategy-is-Essential.html", 
+                    "uuid": "db8e4193-78e2-c7d4-218b-88fbaf3c6ae3"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "247", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/traveler-survey-says-multi-device-cross-channel-mobile-strategy-essential", 
+            "language": "und", 
+            "pid": "221", 
+            "source": "node/247"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639101", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": " Traveler Survey Says: A Multi-Device, Cross-Channel Mobile Strategy is Essential", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "12fcc212-11d7-1374-31b8-b549e547e430", 
+        "vid": "352", 
+        "vuuid": "7e38889f-af22-f3c4-dd41-7ea5afc9b999"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong>\u00a0<br /> Done right, deploying a mobile application can drive steady a increase in adoption rates and customer retention.</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong>&nbsp;<br /> Done right, deploying a mobile application can drive steady a increase in adoption rates and customer retention.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639103", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "215", 
+                    "filemime": "text/html; charset=utf-8", 
+                    "filename": "kony_white_paper_2009.pdf", 
+                    "filesize": "33306", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/kony_white_paper_2009.pdf", 
+                    "uuid": "d03cd370-0fc9-8d14-7112-d7a91c21afa6"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "248", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/buyer-beware-not-all-mobile-apps-are-created-equal-mobile-wrappers-vs-native-device", 
+            "language": "und", 
+            "pid": "222", 
+            "source": "node/248"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639103", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Buyer Beware: Not All Mobile Apps Are Created Equal Mobile Wrappers vs. Native, On-Device Applications", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "d970801f-971d-7944-8592-eeb80d2b8eab", 
+        "vid": "353", 
+        "vuuid": "f72c1110-14b9-b9d4-f9df-0374e9d040cf"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>This white paper examines mobile applications development and delivery issues. And, offers a realistic approach to overcome the enormous resource investment required to reach the full customer base.</p>\n<p><strong>Highlights:</strong>\u00a0<br /> According to Gartner, the iPhone represents just 18% of total smartphones in use today. How can you reach the other 82% of customers using other devices and opertaing systems?</p>\n", 
+                    "summary": "", 
+                    "value": "<p>This white paper examines mobile applications development and delivery issues. And, offers a realistic approach to overcome the enormous resource investment required to reach the full customer base.</p><p><strong>Highlights:</strong>&nbsp;<br /> According to Gartner, the iPhone represents just 18% of total smartphones in use today. How can you reach the other 82% of customers using other devices and opertaing systems?</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639137", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "216", 
+                    "filemime": "text/html; charset=utf-8", 
+                    "filename": "iphone_whitepaper.pdf", 
+                    "filesize": "33298", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/iphone_whitepaper.pdf", 
+                    "uuid": "c3be630b-f87f-d004-6916-e030c36c665b"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "249", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/breaking-iphone-glass-ceiling-opportunity-and-challenge-mobile-consumer-application", 
+            "language": "und", 
+            "pid": "223", 
+            "source": "node/249"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639137", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": " Breaking the iPhone Glass Ceiling  Opportunity and Challenge in Mobile Consumer Application Development. ", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "0f762b83-2318-c134-b1e0-f4820d64b21a", 
+        "vid": "354", 
+        "vuuid": "1314005f-9bbf-89b4-79ba-4f05cb119818"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong><br /> Selecting a future\u2010proof mobile application platform ensures that businesses are ready to meet the needs of customers and reach them across all mobile devices and all channels.</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong><br /> Selecting a future\u2010proof mobile application platform ensures that businesses are ready to meet the needs of customers and reach them across all mobile devices and all channels.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639139", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "217", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Mobile-Wallet-Preparing-for-the-Mobile-Commerce-Reality.html", 
+                    "filesize": "26193", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Mobile-Wallet-Preparing-for-the-Mobile-Commerce-Reality.html", 
+                    "uuid": "26538a79-f9b2-5ec4-ad7f-fa60daeb19fa"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "250", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/mobile-wallet-are-you-open-business", 
+            "language": "und", 
+            "pid": "224", 
+            "source": "node/250"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639139", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "The Mobile Wallet: Are You Open for Business?", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "59d380e0-54e9-4114-51a8-724c3f0e991d", 
+        "vid": "355", 
+        "vuuid": "d20c4132-467a-a1b4-fd94-43bbb04b8e8e"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p><strong>Highlights:</strong><br /> An introduction to the evolving standard with many practical examples of new browser elements.</p>\n", 
+                    "summary": "", 
+                    "value": "<p><strong>Highlights:</strong><br /> An introduction to the evolving standard with many practical examples of new browser elements.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639142", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "218", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-HTML5-Browser-Standards-Multi-Platform-Mobile-Browsing-Environment.html", 
+                    "filesize": "26223", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-HTML5-Browser-Standards-Multi-Platform-Mobile-Browsing-Environment.html", 
+                    "uuid": "d0de34f2-2bee-2a24-ddfa-101e35ea751f"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "251", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/html5-browser-standards-multi-platform-mobile-browsing-environment", 
+            "language": "und", 
+            "pid": "225", 
+            "source": "node/251"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639142", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "HTML5 Browser Standards: Multi-Platform Mobile Browsing Environment ", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "9e4fe125-8f78-6774-f1f5-7a8f705b6f50", 
+        "vid": "356", 
+        "vuuid": "02ac6951-6e91-d934-c5fc-355e56e213a4"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Kony Solutions recently surveyed 119 large corporations regarding the status of their mobile offerings and their overall mobile strategy.</p>\n<p><strong>Highlights:</strong><br /> A comprehensive report, examining specific vertical markets and reaching across several industries, including travel and hospitality, retail, banking and finance, media and communications and transport/automotive.</p>\n", 
+                    "summary": "", 
+                    "value": "<p>Kony Solutions recently surveyed 119 large corporations regarding the status of their mobile offerings and their overall mobile strategy.</p><p><strong>Highlights:</strong><br /> A comprehensive report, examining specific vertical markets and reaching across several industries, including travel and hospitality, retail, banking and finance, media and communications and transport/automotive.</p>"
+                }
+            ]
+        }, 
+        "changed": "1350639144", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "219", 
+                    "filemime": "text/html; charset=utf-8", 
+                    "filename": "kony_mobile_survey.pdf", 
+                    "filesize": "33300", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/kony_mobile_survey.pdf", 
+                    "uuid": "8e5d3eec-363d-48d4-f52c-617c9926fd11"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "252", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/annual-kony-mobile-survey-fortune-500-companies-reveals-plans-invest-mobile-offerings", 
+            "language": "und", 
+            "pid": "226", 
+            "source": "node/252"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639144", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "Annual Kony Mobile Survey of Fortune 500 companies reveals plans to invest in mobile offerings.", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "30dd24cc-ce99-2654-f9ac-553114193e72", 
+        "vid": "357", 
+        "vuuid": "a98cb2fa-f332-8954-a52f-2dc167197b71"
+    }, 
+    {
+        "#node_export_object": "1", 
+        "body": {
+            "und": [
+                {
+                    "format": "full_html", 
+                    "safe_summary": "", 
+                    "safe_value": "<p>Working with <strong>Vanson Bourne</strong> who conducted the research, Kony announced the results of a recent survey that explored UK consumer and retailer attitudes towards mobile shopping and the impact that mobile is having on traditional shopping methods.</p>\n<p><strong>Highlights: </strong>The study revealed that UK retailers are unprepared for the imminent consumer demand for mobile commerce, with key findings of the research including:</p>\n<ul><li>42 percent of retailers believe that mobile commerce is already affecting shopping behaviour at bricks and mortar stores</li>\n<li>However, just 16 percent of retailers claim to have a mobile strategy fully in place, and almost a third have no plans to implement one at all</li>\n<li>Mobile applications and mobile web are the most important elements of retailers\u2019 mobile strategies</li>\n<li>60 percent of consumers claim to use mobile internet to make decisions in a store or while shopping online</li>\n<li>Consumers are open to the idea of NFC payments, and 57 percent of retailers are considering the technology as part of their mobile offering</li>\n</ul>", 
+                    "summary": "", 
+                    "value": "<p>Working with <strong>Vanson Bourne</strong> who conducted the research, Kony announced the results of a recent survey that explored UK consumer and retailer attitudes towards mobile shopping and the impact that mobile is having on traditional shopping methods.</p><p><strong>Highlights: </strong>The study revealed that UK retailers are unprepared for the imminent consumer demand for mobile commerce, with key findings of the research including:</p><ul><li>42 percent of retailers believe that mobile commerce is already affecting shopping behaviour at bricks and mortar stores</li><li>However, just 16 percent of retailers claim to have a mobile strategy fully in place, and almost a third have no plans to implement one at all</li><li>Mobile applications and mobile web are the most important elements of retailers\u2019 mobile strategies</li><li>60 percent of consumers claim to use mobile internet to make decisions in a store or while shopping online</li><li>Consumers are open to the idea of NFC payments, and 57 percent of retailers are considering the technology as part of their mobile offering</li></ul>"
+                }
+            ]
+        }, 
+        "changed": "1350639078", 
+        "cid": "0", 
+        "comment": "1", 
+        "comment_count": "0", 
+        "created": "1350638940", 
+        "data": null, 
+        "domain_site": true, 
+        "domains": {
+            "1": "1"
+        }, 
+        "field_kony_white_paper_file": {
+            "und": [
+                {
+                    "description": "", 
+                    "display": "1", 
+                    "fid": "220", 
+                    "filemime": "text/html; charset=us-ascii", 
+                    "filename": "Kony-White-Paper-Imminent-Consumer-Demand.html", 
+                    "filesize": "26100", 
+                    "rdf_mapping": [], 
+                    "status": "1", 
+                    "timestamp": "1350638940", 
+                    "type": "default", 
+                    "uid": "1", 
+                    "uri": "storage-field-kony-white-paper-file://www/white_paper/file/Kony-White-Paper-Imminent-Consumer-Demand.html", 
+                    "uuid": "39a0b523-cf57-3a64-2513-98e80e408f80"
+                }
+            ]
+        }, 
+        "field_kony_white_paper_image": [], 
+        "language": "und", 
+        "last_comment_name": null, 
+        "last_comment_timestamp": "1350638940", 
+        "last_comment_uid": "3", 
+        "log": "", 
+        "menu": null, 
+        "name": "content", 
+        "nid": "253", 
+        "node_export_drupal_version": "7", 
+        "path": {
+            "alias": "content/new-study-shows-retailers-are-unprepared-imminent-consumer-demand-mobile-commerce", 
+            "language": "und", 
+            "pid": "227", 
+            "source": "node/253"
+        }, 
+        "picture": "0", 
+        "promote": "0", 
+        "rdf_mapping": {
+            "body": {
+                "predicates": [
+                    "content:encoded"
+                ]
+            }, 
+            "changed": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:modified"
+                ]
+            }, 
+            "comment_count": {
+                "datatype": "xsd:integer", 
+                "predicates": [
+                    "sioc:num_replies"
+                ]
+            }, 
+            "created": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "dc:date", 
+                    "dc:created"
+                ]
+            }, 
+            "last_activity": {
+                "callback": "date_iso8601", 
+                "datatype": "xsd:dateTime", 
+                "predicates": [
+                    "sioc:last_activity_date"
+                ]
+            }, 
+            "name": {
+                "predicates": [
+                    "foaf:name"
+                ]
+            }, 
+            "rdftype": [
+                "sioc:Item", 
+                "foaf:Document"
+            ], 
+            "title": {
+                "predicates": [
+                    "dc:title"
+                ]
+            }, 
+            "uid": {
+                "predicates": [
+                    "sioc:has_creator"
+                ], 
+                "type": "rel"
+            }
+        }, 
+        "revision_timestamp": "1350639078", 
+        "revision_uid": "1", 
+        "status": "1", 
+        "sticky": "0", 
+        "subdomains": [
+            "All affiliates", 
+            "www.kony.com"
+        ], 
+        "title": "New Study Shows Retailers are Unprepared for Imminent Consumer Demand for Mobile Commerce", 
+        "tnid": "0", 
+        "translate": "0", 
+        "type": "kony_white_paper", 
+        "uid": "3", 
+        "uuid": "04b2d392-56c7-51c4-b10e-13b9a5c417dc", 
+        "vid": "344", 
+        "vuuid": "ac6a5aa2-d3dd-5974-b11a-2f33fddcb4f2"
+    }
+]

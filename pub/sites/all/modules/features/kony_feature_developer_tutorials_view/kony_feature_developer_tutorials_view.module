@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Developer Tutorials View feature.
+ */
+
+include_once 'kony_feature_developer_tutorials_view.features.inc';

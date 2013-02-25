@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Latest Job Openings View feature.
+ */
+
+include_once 'kony_feature_latest_job_openings_view.features.inc';

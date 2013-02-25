@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Recent Press Releases Block List View feature.
+ */
+
+include_once 'kony_feature_recent_press_releases_block_list_view.features.inc';

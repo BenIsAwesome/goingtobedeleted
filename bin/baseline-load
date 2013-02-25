@@ -1,0 +1,13 @@
+#!/bin/bash
+
+ROOT_PATH=$(dirname $(dirname $(which $0))); ROOT_PATH=${ROOT_PATH/./$PWD}
+
+if [[ -z "$@" ]]; then
+    echo "Please specify database to dump:"
+    read database
+else
+    database=$1; shift 1
+fi
+
+cat $ROOT_PATH/etc/schema.my.sql $ROOT_PATH/etc/data.my.sql | mysql $database $@
+

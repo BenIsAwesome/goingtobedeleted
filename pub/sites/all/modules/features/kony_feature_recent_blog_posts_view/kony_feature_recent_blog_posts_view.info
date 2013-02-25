@@ -1,0 +1,11 @@
+name = Recent Blog Posts View
+description = Recent Blog Posts View
+core = 7.x
+package = Views
+version = 7.x-1.0
+project = kony_feature_recent_blog_posts_view
+dependencies[] = ctools
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = kony_recent_blog_posts

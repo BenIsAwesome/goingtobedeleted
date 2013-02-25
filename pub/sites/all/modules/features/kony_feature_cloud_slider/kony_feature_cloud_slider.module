@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kony Cloud Slider feature.
+ */
+
+include_once 'kony_feature_cloud_slider.features.inc';

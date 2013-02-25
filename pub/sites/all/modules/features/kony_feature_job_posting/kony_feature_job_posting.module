@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Job Posting feature.
+ */
+
+include_once 'kony_feature_job_posting.features.inc';
